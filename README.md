@@ -58,7 +58,7 @@ SMS/
     ```
 2. Navigate to the project directory:
     ```sh
-    cd SMS
+    cd Student-Management-System
     ```
 3. Set up your web server (e.g., XAMPP) and place the project files in the web server directory (e.g., `htdocs` for XAMPP).
 
