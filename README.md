@@ -54,7 +54,7 @@ SMS/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/adityaiam/testnode.git
+    git clone https://github.com/adityaiam/Student-Management-System.git
     ```
 2. Navigate to the project directory:
     ```sh
